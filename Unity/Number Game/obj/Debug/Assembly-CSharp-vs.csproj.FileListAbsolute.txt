@@ -1,0 +1,12 @@
+C:\Users\Hyun\Documents\repos\Unity\Number Game\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Hyun\Documents\repos\Unity\Number Game\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Hyun\Documents\repos\Unity\Number Game\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Hyun\Documents\repos\Unity\Number Game\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Hyun\Documents\repos\Unity\Number Game\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Hyun\Documents\repos\Unity\Number Game\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Hyun\Documents\repos\Unity\Number Game\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Hyun\Documents\repos\Unity\Number Game\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Hyun\Documents\repos\Unity\Number Game\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Hyun\Documents\repos\Unity\Number Game\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Hyun\Documents\repos\Unity\Number Game\obj\Debug\Assembly-CSharp.dll
+C:\Users\Hyun\Documents\repos\Unity\Number Game\obj\Debug\Assembly-CSharp.pdb
